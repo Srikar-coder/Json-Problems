@@ -1,0 +1,17 @@
+[
+  {
+    "name": "InfoTech",
+    "shares": 100,
+    "price": 150.49
+  },
+  {
+    "name": "Bhuna",
+    "shares": 70,
+    "price": 111.11
+  },
+  {
+    "name": "Gildie",
+    "shares": 50,
+    "price": 200.30
+  }
+]
